@@ -9,12 +9,8 @@
 </a>  
   
 
-
-
 ### Glad to see you here!  
   
-  
-
 <br/>  
 
 <details><summary> Github Stats </summary><table><tr><td valign="top" width="50%">
@@ -29,14 +25,5 @@
 
 <br/>  
 
-  
-
-<br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=stargatex&&style=flat-square)  
-  
 
-<br/>  
-
-
-<br />
